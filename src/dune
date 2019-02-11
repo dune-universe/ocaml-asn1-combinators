@@ -1,5 +1,5 @@
 (library
   (name asn1_combinators)
   (public_name asn1-combinators)
-  (libraries cstruct zarith ptime)
+  (libraries cstruct zarith-virtual ptime)
   (wrapped false))
