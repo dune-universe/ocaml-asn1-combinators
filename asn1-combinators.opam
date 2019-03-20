@@ -25,6 +25,7 @@ depends: [
   "zarith"
   "ptime"
   "ounit"
+  "bigarray-compat" { >= "1.0.0" }
   "cstruct-unix" {with-test}
 ]
 build: [
